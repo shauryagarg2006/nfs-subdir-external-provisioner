@@ -170,7 +170,7 @@ gopkg.in/inf.v0
 # gopkg.in/yaml.v2 v2.4.0
 ## explicit; go 1.15
 gopkg.in/yaml.v2
-# gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b => gopkg.in/yaml.v3 v3.0.0-20220521103104-8f96da9f5d5e
+# gopkg.in/yaml.v3 v3.0.1
 ## explicit
 gopkg.in/yaml.v3
 # k8s.io/api v0.23.4 => k8s.io/api v0.23.4
@@ -533,7 +533,6 @@ sigs.k8s.io/yaml
 # github.com/prometheus/client_golang => github.com/prometheus/client_golang v1.11.1
 # golang.org/x/crypto => golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd
 # golang.org/x/net => golang.org/x/net v0.7.0
-# gopkg.in/yaml.v3 => gopkg.in/yaml.v3 v3.0.0-20220521103104-8f96da9f5d5e
 # k8s.io/api => k8s.io/api v0.23.4
 # k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.23.4
 # k8s.io/apimachinery => k8s.io/apimachinery v0.23.4
